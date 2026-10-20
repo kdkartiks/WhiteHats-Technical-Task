@@ -1,2 +1,4 @@
-# WhiteHats-Technical-Task
-Its about me
+Dinesh Kartik Kukreja
+I want to join WhiteHats because I want to more about cybersecurity, ethical hacking, and network security. I am interested in understanding how cyberattacks happen and how to prevent them. I look forward to learning from experienced members, working on practical projects, and improving my technical skills but the real reason is ethical hacking sound cool.
+In September 2025, the Shai-Hulud campaign targeted the npm ecosystem, compromising hundreds of software packages. What makes this incident interesting is that developers can unknowingly expose their systems by installing software dependencies they trust.
+I found this incident interesting because it shows that cybersecurity is not just about protecting websites from hackers; it also involves securing the tools and libraries developers use every day.My takeaway: Developers should verify dependencies, protect access tokens, and regularly audit third-party packages to reduce supply-chain risks.
